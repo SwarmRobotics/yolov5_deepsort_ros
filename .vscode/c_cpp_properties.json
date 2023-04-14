@@ -1,0 +1,52 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/alex/Documents/ROS/Distributed_swarm/Logic_Workspace/devel_isolated/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/alex/Documents/ROS/Distributed_swarm/Logic_Workspace/src/actionlib/include/**",
+        "/home/alex/Documents/ROS/Distributed_swarm/Logic_Workspace/src/angles/angles/include/**",
+        "/home/alex/Documents/ROS/Distributed_swarm/Logic_Workspace/src/bond_core/bondcpp/include/**",
+        "/home/alex/Documents/ROS/Distributed_swarm/Logic_Workspace/src/computer_vision/vision_opencv/cv_bridge/include/**",
+        "/home/alex/Documents/ROS/Distributed_swarm/Logic_Workspace/src/computer_vision/ZED/zed-ros-wrapper/depthimage_to_laserscan/include/**",
+        "/home/alex/Documents/ROS/Distributed_swarm/Logic_Workspace/src/dynamic_reconfigure/include/**",
+        "/home/alex/Documents/ROS/Distributed_swarm/Logic_Workspace/src/geometry/eigen_conversions/include/**",
+        "/home/alex/Documents/ROS/Distributed_swarm/Logic_Workspace/src/hls_lfcd_lds_driver/include/**",
+        "/home/alex/Documents/ROS/Distributed_swarm/Logic_Workspace/src/computer_vision/vision_opencv/image_geometry/include/**",
+        "/home/alex/Documents/ROS/Distributed_swarm/Logic_Workspace/src/geometry/kdl_conversions/include/**",
+        "/home/alex/Documents/ROS/Distributed_swarm/Logic_Workspace/src/computer_vision/LeGO-LOAM/LeGO-LOAM/include/**",
+        "/home/alex/Documents/ROS/Distributed_swarm/Logic_Workspace/src/nodelet_core/nodelet/include/**",
+        "/home/alex/Documents/ROS/Distributed_swarm/Logic_Workspace/src/nodelet_core/nodelet_topic_tools/include/**",
+        "/home/alex/Documents/ROS/Distributed_swarm/Logic_Workspace/src/rospack/include/**",
+        "/home/alex/Documents/ROS/Distributed_swarm/Logic_Workspace/src/rosserial/rosserial_server/include/**",
+        "/home/alex/Documents/ROS/Distributed_swarm/Logic_Workspace/src/rosserial/rosserial_test/include/**",
+        "/home/alex/Documents/ROS/Distributed_swarm/Logic_Workspace/src/common_msgs/sensor_msgs/include/**",
+        "/home/alex/Documents/ROS/Distributed_swarm/Logic_Workspace/src/bond_core/smclib/include/**",
+        "/home/alex/Documents/ROS/Distributed_swarm/Logic_Workspace/src/geometry/tf/include/**",
+        "/home/alex/Documents/ROS/Distributed_swarm/Logic_Workspace/src/geometry2/tf2/include/**",
+        "/home/alex/Documents/ROS/Distributed_swarm/Logic_Workspace/src/geometry2/tf2_bullet/include/**",
+        "/home/alex/Documents/ROS/Distributed_swarm/Logic_Workspace/src/geometry2/tf2_eigen/include/**",
+        "/home/alex/Documents/ROS/Distributed_swarm/Logic_Workspace/src/geometry2/tf2_geometry_msgs/include/**",
+        "/home/alex/Documents/ROS/Distributed_swarm/Logic_Workspace/src/geometry2/tf2_kdl/include/**",
+        "/home/alex/Documents/ROS/Distributed_swarm/Logic_Workspace/src/geometry2/tf2_msgs/include/**",
+        "/home/alex/Documents/ROS/Distributed_swarm/Logic_Workspace/src/geometry2/tf2_ros/include/**",
+        "/home/alex/Documents/ROS/Distributed_swarm/Logic_Workspace/src/geometry2/tf2_sensor_msgs/include/**",
+        "/home/alex/Documents/ROS/Distributed_swarm/Logic_Workspace/src/geometry/tf_conversions/include/**",
+        "/home/alex/Documents/ROS/Distributed_swarm/Logic_Workspace/src/computer_vision/traversability_mapping/traversability_mapping/include/**",
+        "/opt/ros/melodic/share/velodyne_simulator/velodyne_gazebo_plugins/include/**",
+        "/home/alex/Documents/ROS/Distributed_swarm/Logic_Workspace/src/computer_vision/ZED/zed-ros-wrapper/zed-ros-interfaces/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
